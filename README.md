@@ -1,50 +1,88 @@
-# 👋 Gabriel Hastec
+<div align="center">
 
-### 🎯 Administrador · Engenharia de Computação · Soluções Tecnológicas para Negócios
+# Gabriel Hastec
+
+📍 Recife, PE — Brasil  
+
+### 🎯 Administrador · Engenharia de Computação · Desenvolvedor Fullstack
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=22&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Java+%7C+Spring+Boot;React+%7C+JavaScript;Construindo+soluções+reais" />
+
+<br>
+<!-- Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/gabrielhastec">
+    <img height="45" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1E90FF" />
+  </a>
+  <a href="https://github.com/gabrielhastec">
+    <img height="45" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=1E90FF" />
+  </a>
+  <a href="mailto:gabrielhastec.dev@gmail.com">
+    <img height="45" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=1E90FF" />
+  </a>
+</p>
+</div>
+
+---
 
 Formado em Administração, utilizo a tecnologia como alavanca estratégica para resolver problemas organizacionais.  
 Atualmente curso **Engenharia de Computação** e me preparo para atuar como **Desenvolvedor Fullstack (Java + React)**, criando aplicações completas que integram backend, frontend e regras de negócio com qualidade, boas práticas e arquitetura de software.
 
 ---
 
-## 🧭 Posicionamento Profissional
-
-- 🚀 Desenvolvimento de soluções para **eficiência operacional**
-- 🧩 Aplicação de tecnologia em **processos organizacionais reais**
-- 🔗 Integração entre **negócio, desenvolvimento e dados**
-
----
-
 ## 🛠️ Stack Tecnológica
 
-### Linguagens
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Backend -->
+<div>
+  <h3>🔧 Backend</h3>
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-000?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MapStruct-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-000?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
-### Frameworks & Bibliotecas
+<br>
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!-- Frontend -->
+<div>
+  <h3>🎨 Frontend</h3>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue"/>
+</div>
 
-### Ferramentas
+<br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- Ferramentas -->
+<div>
+  <h3>⚙️ Ferramentas</h3>
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-000?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+</div>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhastec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhastec&layout=compact&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=gabrielhastec&theme=tokyonight&hide_border=true"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=gabrielhastec&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhastec&layout=compact&hide_border=true&bg_color=0d1117&title_color=1E90FF&text_color=FFFFFF"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=gabrielhastec&hide_border=true&background=0d1117&ring=1E90FF&fire=1E90FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
+
 </div>
 
 ---
@@ -53,59 +91,112 @@ Atualmente curso **Engenharia de Computação** e me preparo para atuar como **D
 
 ### ☕ Jornada Java · [Ver repositório →](https://github.com/gabrielhastec/jornada_java)
 
-> 🟡 Em andamento · **+90 commits** · `Java` · `POO` · `Spring`
+> 🟢📈 Em melhoria contínua · **+90 commits** · `Java` · `POO` · `Spring`
 
 <details>
-<summary>Ver análise STAR</summary>
+<summary><strong>🔍 Situação</strong></summary>
 <br>
-
-**🔍 Situação**  
-Iniciei a Engenharia de Computação sem experiência prévia em programação. O desafio era construir uma base técnica sólida em Java — do zero — enquanto acompanhava a progressão da graduação.
-
-**📋 Tarefa**  
+Iniciei a Engenharia de Computação sem experiência prévia em programação. O desafio era construir uma base técnica sólida em Java, enquanto acompanhava a progressão da graduação.
+</details>
+<details>
+<summary><strong>📋 Tarefa</strong></summary>
+<br>
 Dominar os fundamentos da linguagem de forma estruturada: lógica de programação, POO, tratamento de exceções, boas práticas e projetos práticos progressivos.
-
-**📈 Resultado**  
-- ✅ Java Core consolidado — lógica, POO e estruturação de código dominados
-- ✅ +90 commits de evolução contínua e mensurável
-- ✅ Spring incorporado como próximo nível de maturidade técnica
-- 🎯 *Meta:* dominar o ecossistema Java backend ao longo da graduação
-
+</details>
+<details>
+<summary><strong>⚙️ Ação</strong></summary>
+<br>
+Adotei uma abordagem de aprendizado incremental e versionado: cada aula e exercício é commitado individualmente no repositório, criando um histórico real de evolução. Após consolidar o Java Core, incorporei o <strong>Spring Framework</strong> para avançar em desenvolvimento backend e aumentar a profissionalização do código.
+</details>
+<details>
+<summary><strong>📈 Resultado</strong></summary>
+<br> 
+- ✅ <em>Java Core consolidado: lógica, POO e estruturação de código dominados</em><br>
+- ✅ <em>+90 commits de evolução contínua e mensurável</em><br>
+- ✅ <em>Spring incorporado como próximo nível de maturidade técnica</em><br>
+- 🎯 <em>Meta: dominar o ecossistema Java backend ao longo da graduação</em>
 </details>
 
 ---
 
 ### 🛒 PokePay · [Ver repositório →](https://github.com/gabrielhastec/PokePay)
 
-> 🔵 Em arquitetura · `Java` · `Spring` · `React` · `SQL`
-
-SaaS de PDV em desenvolvimento — sistema de ponto de venda voltado para pequenas e médias empresas que ainda operam com controle financeiro e de estoque de forma manual.
+> 🟡🛠️ Em desenvolvimento · `Java` · `Spring` · `React` · `SQL`
 
 <details>
-<summary>Ver análise STAR</summary>
+<summary><strong>🔍 Situação</strong></summary>
 <br>
-
-**🔍 Situação**  
 Pequenas e médias empresas frequentemente operam sem um PDV acessível, resultando em controle financeiro manual e dificuldade de gestão de estoque. Minha formação em Administração me permitiu identificar esse gap operacional de forma direta.
-
-**📋 Tarefa**  
+</details>
+<details>
+<summary><strong>📋 Tarefa</strong></summary>
+<br>
 Projetar e desenvolver um SaaS de PDV com: cadastro de produtos e estoque, gestão de funcionários, lançamento de vendas, controle financeiro e relatórios operacionais.
+</details>
+<details>
+<summary><strong>⚙️ Ação</strong></summary>
+<br>
+Iniciado com foco em arquitetura de sistema, definindo: entidades, regras de negócio e fluxos antes de qualquer linha de código. O stack planejado combina <strong>Java + Spring</strong> no backend (API REST), <strong>React</strong> no frontend e <strong>SQL</strong> para persistência de dados, seguindo uma estrutura orientada a domínio de negócio.
+</details>
+<details>
+<summary><strong>📈 Resultado</strong></summary>
+<br> 
+- ✅ <em>Arquitetura definida com base em cenário real de negócio</em><br>
+- 🎯 <em>Impacto esperado: eliminação de controles manuais em planilhas e redução do tempo de registro de vendas</em><br>
+- 🎯 <em>Meta: MVP funcional com as operações core de PDV</em><br>
+- 🎯 <em>Visão: produto SaaS acessível a empresas que ainda não utilizam tecnologia</em>
+</details>
 
-**📈 Resultado**  
-- ✅ Arquitetura definida com base em cenário real de negócio
-- 🎯 *Impacto esperado:* eliminação de controles manuais em planilhas e redução do tempo de registro de vendas
-- 🎯 *Meta:* MVP funcional com as operações core de PDV
-- 🎯 *Visão:* produto SaaS acessível a empresas que ainda não utilizam tecnologia
+---
+
+## 🧠 Desafios Resolvidos
+
+<details>
+<summary><strong>Desafios Técnicos</strong></summary>
+<br>
+🚧 **Em construção** 🚧
+
+</details>
+
+<details>
+<summary><strong>Desafios Colaborativos</strong></summary>
+<br>
+🚧 **Em construção** 🚧
 
 </details>
 
 ---
 
-## 📫 Contato
+## 💼 Experiências  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielhastec)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielhastec)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhastec.dev@gmail.com)
+<details>
+<summary><strong>Analista / Operador de Sistemas</strong></summary>
+<br>
+- <em>Monitoramento de sistemas e análise de dados operacionais</em><br>
+- <em>Elaboração de relatórios e apoio à tomada de decisão</em><br>
+- <em>Uso de sistemas corporativos (SAP, Protheus)</em><br>
+- <em>Suporte a usuários e resolução de problemas técnicos</em><br>
+- <em>Treinamento de usuários em ferramentas digitais</em>
+</details>
+
+---
+
+## 🎓 Formação  
+
+**Bacharelado em Administração**  
+
+**Engenharia de Computação (🔄 Em evolução)**  
+
+---
+
+## 🚀 Posicionamento & Diferenciais  
+
+- 🚀 Desenvolvimento de soluções com foco em **eficiência operacional e impacto real no negócio**  
+- 🧩 Aplicação de tecnologia em **processos organizacionais**, transformando regras de negócio em sistemas funcionais  
+- 🔗 Integração entre **backend, frontend e dados**, com visão fullstack orientada a domínio  
+- 🧠 Capacidade analítica para **entender problemas complexos e estruturar soluções técnicas**  
+- 📈 Evolução contínua com prática consistente (**GitHub ativo e versionamento frequente**)  
+- 🎯 Facilidade em traduzir **necessidades de negócio em implementações técnicas claras e escaláveis**
 
 ---
 
