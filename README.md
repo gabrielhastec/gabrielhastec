@@ -119,7 +119,7 @@ Adotei uma abordagem de aprendizado incremental e versionado: cada aula e exerc�
 
 ---
 
-### 🛒 PokePay · [Ver repositório →](https://github.com/gabrielhastec/PokePay)
+### 🛒 Pokepdv · [Ver repositório →](https://github.com/gabrielhastec/PokePdv)
 
 > 🟡🛠️ Em desenvolvimento · `Java` · `Spring` · `React` · `SQL`
 
