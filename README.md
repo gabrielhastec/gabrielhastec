@@ -78,8 +78,8 @@ Atualmente curso **Engenharia de Computação** e me preparo para atuar como **D
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=gabrielhastec&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhastec&layout=compact&hide_border=true&bg_color=0d1117&title_color=1E90FF&text_color=FFFFFF"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api?username=gabrielhastec&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhastec&layout=compact&hide_border=true&bg_color=0d1117&title_color=1E90FF&text_color=FFFFFF"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=gabrielhastec&hide_border=true&background=0d1117&ring=1E90FF&fire=1E90FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
 
